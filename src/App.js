@@ -129,7 +129,7 @@ const contacts = [
           <a href="#contact" className="btn-primary">Get In Touch</a>
         </div>
         <div className="hero-image">
-         <img src="/profile.jpg" width="50" className="profile" alt="Aravind" />
+         <img src="profile.jpg" width="50" className="profile" alt="Aravind" />
         </div>
       </section>
 
